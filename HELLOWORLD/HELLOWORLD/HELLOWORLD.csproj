@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Maju\Documents\GitHub\C-\HelloWorld.cs" Link="HelloWorld.cs" />
+  </ItemGroup>
+
+</Project>

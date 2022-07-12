@@ -1,0 +1,16 @@
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.exe
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.deps.json
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.runtimeconfig.json
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.runtimeconfig.dev.json
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.dll
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.pdb
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.csproj.AssemblyReference.cache
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.AssemblyInfoInputs.cache
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.AssemblyInfo.cs
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.csproj.CoreCompileInputs.cache
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.dll
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\refint\HELLOWORLD.dll
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.pdb
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.genruntimeconfig.cache
+C:\Users\Maju\source\repos\projetos\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\ref\HELLOWORLD.dll
