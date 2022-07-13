@@ -1,0 +1,16 @@
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.csproj.AssemblyReference.cache
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.AssemblyInfoInputs.cache
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.AssemblyInfo.cs
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.csproj.CoreCompileInputs.cache
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\bin\Debug\net5.0\IMCs.exe
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\bin\Debug\net5.0\IMCs.deps.json
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\bin\Debug\net5.0\IMCs.runtimeconfig.json
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\bin\Debug\net5.0\IMCs.runtimeconfig.dev.json
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\bin\Debug\net5.0\IMCs.dll
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\bin\Debug\net5.0\IMCs.pdb
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.dll
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\refint\IMCs.dll
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.pdb
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\IMCs.genruntimeconfig.cache
+C:\Users\Maju\Documents\GitHub\C-\IMCs\IMCs\obj\Debug\net5.0\ref\IMCs.dll
